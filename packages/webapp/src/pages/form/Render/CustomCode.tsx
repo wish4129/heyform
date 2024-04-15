@@ -77,7 +77,7 @@ export const CustomCode = ({ form }: { form: FormModel }) => {
   const fontURL = getWebFontURL(theme.fontFamily)
 
   useEffect(() => {
-    document.title = form.name ? `${form.name} - HeyForm` : 'HeyForm'
+    document.title = form.name ? `${form.name} - SiriusForm` : 'SiriusForm'
   }, [form.name])
 
   return (

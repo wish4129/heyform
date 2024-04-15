@@ -1,6 +1,6 @@
 export default {
   app: {
-    name: 'HeyForm',
+    name: 'SiriusForm',
     copy: 'Copy',
     copied: 'Copied'
   },
@@ -10,7 +10,7 @@ export default {
     startFree: 'create an account',
     signWith: 'Log in with',
     noAccount: "Don't have an account yet?",
-    bindAccountDescription: 'Already a HeyForm user? Login and link your account.',
+    bindAccountDescription: 'Already a SiriusForm user? Login and link your account.',
     continueWith: 'Or continue with',
     rememberMe: 'Remember me',
     forgotPassword: 'Forgot your password?',
@@ -239,7 +239,7 @@ export default {
     settings: {
       avatar: 'Avatar',
       avatarText:
-        'Gravatar is used by default as your HeyForm avatar, you can upload your custom avatar here',
+        'Gravatar is used by default as your SiriusForm avatar, you can upload your custom avatar here',
       deletedAccount: {
         sendEmail: 'An email containing a verification code was sent to',
         del: 'Delete account',
@@ -330,11 +330,11 @@ export default {
     embedWeb: [
       {
         title: 'Standard',
-        description: 'Present HeyForm as part of your website'
+        description: 'Present SiriusForm as part of your website'
       },
       {
         title: 'Popup',
-        description: 'HeyForm pops up in the center of the screen.'
+        description: 'SiriusForm pops up in the center of the screen.'
       },
       {
         title: 'Popup over',
@@ -385,7 +385,7 @@ export default {
     Extra: 'Extra',
     subArchive: 'Submission archive',
     archiveText:
-      "Disable the submission archive if you don't want HeyForm to store your submissions.",
+      "Disable the submission archive if you don't want SiriusForm to store your submissions.",
     timeLimit: 'Time limit',
     timeText:
       'You can set an allowable time here if you want to block the submission after the countdown is over.',
@@ -463,7 +463,7 @@ export default {
     tableName: 'Table name',
     mapFields: 'Map fields',
     tableText3:
-      "Map HeyForm to Airtable fields. It's crucial to type the Airtable field names exactly as they appear in your table. If you change a field name on Airtable, please update it here too, otherwise the integration won't work as expected.",
+      "Map SiriusForm to Airtable fields. It's crucial to type the Airtable field names exactly as they appear in your table. If you change a field name on Airtable, please update it here too, otherwise the integration won't work as expected.",
     DropboxText:
       'Folder where to place file if you have added a "File Upload" component in your form.',
     select: 'Select folder',
@@ -517,14 +517,14 @@ export default {
     SelectWorksheet: 'Select worksheet',
     MapFields: 'Map fields',
     googleSheet:
-      "Map HeyForm to Google Sheets fields. If you change a field on Google Sheets, please update it here too, otherwise the integration won't work as expected.",
-    leftPlaceholder: 'HeyForm question',
+      "Map SiriusForm to Google Sheets fields. If you change a field on Google Sheets, please update it here too, otherwise the integration won't work as expected.",
+    leftPlaceholder: 'SiriusForm question',
     rightPlaceholder: 'Google Sheets field',
-    leftTipText: 'Select HeyForm question',
+    leftTipText: 'Select SiriusForm question',
     rightTipText: 'Select Google Sheets field',
     ColumnValues: 'Column values (optional)',
     mondayText:
-      "Map HeyForm to Monday columns. If you change a column on Monday, please update it here too, otherwise the integration won't work as expected.",
+      "Map SiriusForm to Monday columns. If you change a column on Monday, please update it here too, otherwise the integration won't work as expected.",
     Board: 'Board',
     SelectBoard: 'Select a board',
     Group: 'Group (Optional)',
@@ -566,7 +566,7 @@ export default {
     Status: 'Status',
     ChooseStatus: 'Choose status',
     Authorization: 'Authorization',
-    AuthorizationText: 'First off all, please authorize HeyForm to access your data',
+    AuthorizationText: 'First off all, please authorize SiriusForm to access your data',
     login: 'Login to',
     loginGoogle: 'Login to Google'
   },

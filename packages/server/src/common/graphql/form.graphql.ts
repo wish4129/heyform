@@ -905,7 +905,7 @@ export class FormType {
   @Field({ nullable: true })
   suspended?: boolean
 
-  // HeyForm Form Builder v2.0
+  // SiriusForm Form Builder v2.0
   @Field({ nullable: true })
   draft?: boolean
 

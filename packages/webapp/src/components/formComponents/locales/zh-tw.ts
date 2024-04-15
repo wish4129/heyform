@@ -52,7 +52,7 @@ export default {
   'Thanks for completing this form. Now create your own form.':
     '感謝您完成此表單。現在建立您自己的表單。',
   'Form unavailable': '表單不可用',
-  'Create a heyform': '建立一個 HeyForm',
+  'Create a heyform': '建立一個 SiriusForm',
   "The form can't receive new submissions now.": '表單現在無法接收新的提交。',
   Questions: '問題列表',
   'Search country': '搜尋國家',
