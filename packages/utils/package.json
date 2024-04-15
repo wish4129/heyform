@@ -2,7 +2,7 @@
   "name": "@heyform-inc/utils",
   "description": "HeyForm utils",
   "version": "1.0.1",
-  "homepage": "https://heyform.net",
+  "homepage": "https://www.siriusform.com",
   "author": "Heyooo, Inc.",
   "license": "GPL-3.0",
   "main": "./dist/index.js",

@@ -29,7 +29,7 @@ export const UserAccount: FC<IComponentProps> = observer(({ className, style }) 
         break
 
       case 'contact':
-        window.open('https://heyform.net/contact')
+        window.open('https://www.siriusform.com/contact')
         break
 
       case 'profile':
